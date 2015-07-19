@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-topfloat
 Version:	20070117
-Release:	9
+Release:	10
 Summary:	Move floats to the top of the page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/topfloat
