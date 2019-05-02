@@ -5,8 +5,8 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-topfloat
-Version:	20180303
-Release:	3
+Version:	20190228
+Release:	1
 Summary:	Move floats to the top of the page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/topfloat
