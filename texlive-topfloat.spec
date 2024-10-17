@@ -3,7 +3,7 @@ Version:	19084
 Release:	2
 Summary:	Move floats to the top of the page
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/topfloat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/topfloat
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/topfloat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/topfloat.doc.r%{version}.tar.xz
